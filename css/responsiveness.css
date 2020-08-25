@@ -224,9 +224,12 @@
 
     }
 
-    .d-pic2 {
-        top : 150px;
-        left: 150px;
+   .d-pic2 {
+        width        : 50%;
+        height       : 200px;
+        border-radius: 50%;
+        top          : 150px;
+        left         : 150px;
 
     }
 
@@ -245,6 +248,16 @@
         width: 80px;
     }
 
+      .d-pic {
+        height       : 300px;
+    }
+
+    .d-pic2 {
+        height       : 180px;
+        top          : 140px;
+        left         : 150px;
+
+    }
     .profile-description h2 {
         font-size: 1.2rem;
     }
