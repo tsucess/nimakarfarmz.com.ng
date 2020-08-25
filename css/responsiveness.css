@@ -166,7 +166,15 @@
     .carousel-section h3 {
         font-size: 30px;
     }
+  .carousel-caption h3 {
+        font-size: 1.2rem;
+    }
 
+    .carousel-caption p {
+        font-size: 0.8rem;
+        line-height: 1.1;
+
+    }
 
     .d-pic2 {
         top : 200px;
